@@ -1,6 +1,6 @@
-<!-- 🔥 Animated Typing Header -->
+<!-- 🔥 Animated Typing Header (Dark + Yellow) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Ali+Charaf+%7C+Digital+Accessibility+Engineer;AI+Automation+Architect;Prompt+Engineer+%7C+LLM+Behavior+Researcher;Building+Inclusive+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=FFD700&background=0D1117&center=true&vCenter=true&width=900&lines=Ali+Charaf+%7C+Digital+Accessibility+Engineer;AI+Automation+Architect;Prompt+Engineer+%7C+LLM+Behavior+Researcher;Building+Inclusive+AI+Systems" />
 </p>
 
 <p align="center">
